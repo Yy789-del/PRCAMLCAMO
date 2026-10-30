@@ -1,0 +1,5 @@
+streamlit>=1.30
+pandas>=1.3
+semantica>=0.7.0
+pymysql>=1.1
+SQLAlchemy>=2.0
